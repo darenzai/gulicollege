@@ -20,7 +20,6 @@ import java.util.List;
  * @since 2021-02-26
  */
 
-@CrossOrigin
 @RestController
 @RequestMapping("/eduservice/subject")
 public class EduSubjectController {
